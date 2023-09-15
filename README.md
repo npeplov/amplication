@@ -1,3 +1,6 @@
+https://guild-of-developers.ru/projects/402
+
+
 <h1 align="center">
     <a href="https://amplication.com/#gh-light-mode-only">
     <img src="./.github/assets/amplication-logo-light-mode.svg">
